@@ -1,0 +1,2 @@
+- what is ajax in js?
+- how to make http requests in js?

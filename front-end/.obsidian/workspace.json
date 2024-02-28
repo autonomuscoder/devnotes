@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "928138d16827639f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2441ac29419fb711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f46936256b34fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/conditional rendering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c660ca9f28ab89a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee7a40a1cb9ee2a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f137c2454404183f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7419844cd9c3f1f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a609b53e062fc719",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fbe8468503f2efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0ec5f2181c12763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc99231c8751ff05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/conditional rendering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eb4109cbb4a7954",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React/conditional rendering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47dd8c46aa0b79c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99a0cf09128e8cda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React/conditional rendering.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "83f46936256b34fb",
+  "lastOpenFiles": [
+    "javascript/Array iteration methods.md",
+    "React/conditional rendering.md",
+    "Medical site wordpress.md",
+    "css/animation optimization.md",
+    "React/Rendering lists.md",
+    "React/Fragments.md",
+    "React/Adding bootstrap to react.md",
+    "React/Creating react component.md",
+    "React/Theory.md",
+    "React/Creating react app (using vite).md",
+    "css/Replaced elements.md",
+    "React",
+    "Data structures and algorithms using js/The code for reference.md",
+    "Data structures and algorithms using js/Basics.md",
+    "Explore/Google Gemini.md",
+    "llm_prediction.png",
+    "Explore",
+    "javascript/innerText.md",
+    "innertext_vs_textcontent 1.png",
+    "innertext_vs_textcontent.png",
+    "javascript/textContent.md",
+    "Terms.md",
+    "javascript/Class manipulation.md",
+    "Project ideas.md",
+    "Data structures and algorithms using js",
+    "javascript/Initial content load.md",
+    "things to learn.md",
+    "javascript/currentTarget property.md",
+    "wordpress/Themes.md",
+    "javascript",
+    "wordpress",
+    "css/Css Clip-path.md",
+    "Nav Menu wordpress.md",
+    "css",
+    "Welcome.md"
+  ]
+}
