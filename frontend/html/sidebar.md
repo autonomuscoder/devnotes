@@ -1,0 +1,2 @@
+- when making a sidebar it is best the use the <i>aside</i> html tag to wrap the sidebar content
+- Useful to use transform, translate in addition to javascript <i>classlist toggle</i> for easy but effective functionality for adding and removing classes based on event.
