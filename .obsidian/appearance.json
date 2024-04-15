@@ -1,0 +1,11 @@
+{
+  "accentColor": "#74afae",
+  "cssTheme": "Vanilla AMOLED",
+  "textFontFamily": "FiraCode Nerd Font Mono",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "interfaceFontFamily": "Iosevka Nerd Font Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "transparent"
+  ]
+}

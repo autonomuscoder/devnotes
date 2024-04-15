@@ -1,0 +1,10 @@
+.workspace-leaf-content .view-content {
+  z-index: 0;
+}
+.workspace-leaf-content .view-content::after {
+  content: "";
+  z-index: -1;
+  position: absolute;
+  opacity: 0.5;
+  filter: brightness(50%) saturate(50%);
+}
